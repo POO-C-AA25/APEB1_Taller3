@@ -30,7 +30,7 @@ Elaborar una solución que calcule e imprima el costo de un terreno rectangular;
 	* Tiene el método main
 
 > [!Note]
-> - Para interactuar en el test/verificación/ejecución (clases base vs ejecutor), use los métodos **set()** generando valores aleatorios para el ingreso de datos, y **get()** _(unificandos/invocados en el toString)_.
+> - Para interactuar en el test/verificación/ejecución (clases base vs ejecutor), use los métodos **set()** generando valores aleatorios para el ingreso de datos, y **get()** _(unificandos/invocados en el **toString()**)_.
 
 ## Problema 2
 
@@ -50,46 +50,46 @@ Elaborar una solución que lea una cantidad de horas e imprima su equivalente en
 	* Tiene el método main
 
 > [!Note]
-> - Para interactuar en el test/verificación/ejecución (clases base vs ejecutor), no use **get()** o **set()**, en su lugar use sobrecarga de constructores, así como el _toString()_.
+> - Para interactuar en el test/verificación/ejecución (clases base vs ejecutor), no use _**get()**_ o _**set()**_, en su lugar use sobrecarga de constructores, así como el _**toString()**_.
 
 ## Problema 3
 
 Se necesita representar una entidad que permite administrar Instituciones Educativas. Cada institución tiene como características: nombre, tipo de institución, número de alumnos, número de docentes, número de sedes, gastos proyectado por estudiante, presupuesto. El presupuesto es igual a la cantidad de alumnos de la institución por el gato proyectado por estudiante.
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use libremente **set()**_, _**get()**_, _**constructores**_ y/o _**toString()**_.
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use libremente _**set()**_, _**get()**_, _**constructores**_ y/o _**toString()**_.
 
 ## Problema 4
 
 Para un sistema, es necesario abstraer las características de dispositivos electrónicos _Equipo celulares_. Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo inicial, iva en porcentaje, iva del costo inicial costo final, dirección mac, información IMEI. El costo final del equipo es igual costo inicial más el iva del costo inicial. 
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los **constructores**_ y _**toString()**_. 
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. 
 
 ## Problema 5
 
 * Se requiere representar una entidad que permita crear objetos con características como:  nombre de estudiante, calificación de materia 1, calificación de materia 2, calificación de materia 3 y promedio de calificaciones. Adicional, esta entidad/clase, debe procesar un estado de "Aprobado" si el promedio es mayor o igual a 6.5pts., caso contrario "Reprobado".
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los **constructores**_ y _**toString()**_, no olvide usar generación de datos/números aleatorios para el ingreso de datos. 
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_, no olvide usar generación de números aleatorios para el ingreso de datos. 
 
 ## Problema 6
 
 * Los profesores de un instituto tienen algunas características: nombre, apellido, sueldo básico, sueldo total y cédula. El sueldo total es igual al sueldo básico más el 20% del sueldo básico.
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los **constructores**_ y _**toString()**_. 
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. 
 
 ## Problema 7
 
 * Un automotor tiene entre sus características, cédula del dueño, marca de vehículo, año de fabricación, valor de vehículo y valor de la matricula. El valor de la matricula es igual al 0.002% del valor de vehículo por el número de años de antigüedad del vehículo.
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los **constructores**_ y _**toString()**_. 
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. 
 
 ## Problema 8
 
 * En una entidad financiera se requiere manejar los cheques. Cada cheque tiene las siguientes propiedades: nombre del cliente, nombre del banco, valor del cheque y comisión que cobra el banco. La comisión del banco es igual al valor del cheque por el 0.003%.
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los **constructores**_ y _**toString()**_. No olvide usar generación de datos/números aleatorios para el ingreso de datos. 
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactue en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. No olvide usar generación de datos/números aleatorios para el ingreso de datos. 
