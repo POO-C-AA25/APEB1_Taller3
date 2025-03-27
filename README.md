@@ -97,3 +97,10 @@ Diseñe una clase en UML y posteriormente codifíquela, en la cual se represente
 
 > [!Note]
 > - Como resultado de su análisis, determinar los niveles de acceso para los datos de los objetos involucrados (atributos, constructores y métodos).
+
+## Problema 10
+
+Diseñe una clase en UML denominada CandidatoPresidencial para modelar a los aspirantes a la presidencia de Ecuador en las elecciones de 2025. La clase debe incluir atributos esenciales como nombre, edad, partido político, plan de gobierno y número de propuestas clave. Implemente métodos para modificar y obtener esta información, además de un método que permita validar si el candidato cumple con los requisitos de edad mínima según la legislación electoral. Sobrecargue los constructores para permitir la creación de objetos con diferentes niveles de detalle: por ejemplo, uno que solo reciba el nombre y el partido, y otro que incluya todos los atributos.
+
+> [!Note]
+> - No olvide validar el funcionamiento de su solución con la base de prueba, que invoque los constructores sobre cargados y se constate las diferencias entre objetos. 
