@@ -19,7 +19,6 @@ Elaborar una solución que calcule e imprima el costo de un terreno rectangular;
 * Entidades o Clases
 	* Terreno 
 	* Ejecutor
-	
 * Terreno, tiene los siguientes atributos
 	* costo_terreno
 	* ancho
