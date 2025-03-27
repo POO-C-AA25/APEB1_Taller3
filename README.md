@@ -1,6 +1,6 @@
 # Taller 3 - Creación de programas usando los conceptos iniciales de POO
 
-## Implementación de Diseños Orientados a Objetos (DOO) en el lenguaje de alto nivel Java.
+## Implementación ded Diseños Orientados a Objetos (DOO) en el lenguaje de alto nivel Java.
 
 * Leer detenidamente cada problemática propuesta.
 * Usar el programa **DIA-UML** _(Open source)_, o **StarUML**, para generar la representación de su solución _(modelado)_, vía diagramas de clases.
