@@ -38,13 +38,11 @@ Elaborar una solución que lea una cantidad de horas e imprima su equivalente en
 * Entididades o Clases
 	* EquivalenteHora
 	* Ejecutor (clase de prueba)
-	
 * EquivalenteHora
 	* horas
 	* minutos
 	* segundos
-	* dias
-	
+	* dias	
 * Ejecutor (clase de prueba) 
 	* Tiene el método main
 
@@ -91,4 +89,11 @@ Para un sistema, es necesario abstraer las características de dispositivos elec
 * En una entidad financiera se requiere manejar los cheques. Cada cheque tiene las siguientes propiedades: nombre del cliente, nombre del banco, valor del cheque y comisión que cobra el banco. La comisión del banco es igual al valor del cheque por el 0.003%.
 
 > [!Note]
-> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactúe en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. No olvide usar generación de datos/números aleatorios para el ingreso de datos. 
+> - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactúe en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. No olvide usar generación de datos/números aleatorios para el ingreso de datos.
+
+## Problema 9
+
+Diseñe una clase en UML y posteriormente codifíquela, en la cual se represente un emprendimiento en la ciudad de Loja, considerando que cada emprendimiento posee un nombre comercial, RUC, sector económico (gastronomía, tecnología, moda, etc.), propietario, y ubicación. Además, debe contar con atributos que permitan registrar su fecha de inicio de actividades y capital inicial. La clase debe incluir métodos para actualizar información del emprendimiento, calcular su antigüedad en años y determinar si es un micro, pequeño o mediano negocio en función de su capital.
+
+> [!Note]
+> - Como resultado de su análisis, determinar los niveles de acceso para los datos de los objetos involucrados (atributos, constructores y métodos).
